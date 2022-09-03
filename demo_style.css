@@ -22,13 +22,13 @@ header h1{
     border-radius: 36px;
 
 }
-.banner{
+.front{
     position: relative;
 }
-.banner img{
+.front img{
     max-width: 100%;
 }
-.banner .welcome{
+.front .welcome{
     background-color: #EDC256;
     color: white;
     padding: 30px;
@@ -36,7 +36,7 @@ header h1{
     left:0;
     top: 30%;
 }
-.banner h2{
+.front h2{
     font-size: 74px;
 }
 .banner h2 span{
